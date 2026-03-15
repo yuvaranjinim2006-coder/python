@@ -5,7 +5,7 @@ age = int(input("Enter your age: "))
 height = float(input("Enter your height: "))
 
 
-age_str = str(age)z
+age_str = str(age)
 height_int = int(height)
 
 
