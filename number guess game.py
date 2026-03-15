@@ -16,4 +16,4 @@ while guess != secret:
 
     else:
         print("Correct! You guessed the number.")
-Example Output
+
